@@ -1,5 +1,5 @@
 # sql-jupyter-project
- SQL-Jupyter Project
+ SQL Python Analytics project - E-commerce dataset 
  
 🔍 About Dataset
 Contains orders from an E-commerce site (UK Retailer), with various products and orders. Try starting with EDA and applying different functions to know more about the data. The dataset is tricky as it contains all the problems that an actual site may have.
@@ -40,19 +40,6 @@ Third highest selling product; falls under the holiday and home decor category a
 📆 Monthly Sales Trend Insights (2010–2011)
 
 Month	Total Sales ($)
-2010-12	552,372.86
-2011-01	473,731.90
-2011-02	435,534.07
-2011-03	578,576.21
-2011-04	425,222.67
-2011-05	647,011.67
-2011-06	606,862.52
-2011-07	573,112.32
-2011-08	615,078.09
-2011-09	929,356.23
-2011-10	973,306.38
-2011-11	1,126,815.07
-2011-12	341,539.43
 Insights:
 
 Strong Spike (October to November) (Q4) — $973,306.38 to $1,126,815.07
