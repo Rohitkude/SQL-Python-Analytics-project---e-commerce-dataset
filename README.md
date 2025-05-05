@@ -47,7 +47,6 @@ January	$473,731.90
 February	$435,534.07
 
 Insights:
-
 Strong Spike (October to November) (Q4) — $973,306.38 to $1,126,815.07
 Highest monthly sales driven due to shopping, indicating high levels of shopping before December holidays.
 
@@ -65,6 +64,7 @@ Promotions: Offer discounts during post-holiday season (January) to mitigate the
 Staffing: Increase staff members during peak season.
 
 Repeat Products (Sold Multiple Times)
+
 Insights:
 Top repeat products like the WHITE HANGING HEART T-LIGHT HOLDER (2,058 sales) show strong, consistent demand. These are reliable revenue drivers—perfect for promotions, bundling, and loyalty rewards.
 
