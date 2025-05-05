@@ -4,7 +4,7 @@ SQL Python Analytics Project – E-commerce Dataset
 About Dataset
 Contains orders from an E-commerce site (UK Retailer), with various products and orders. Try starting with EDA and applying different functions to know more about the data. The dataset is tricky as it contains all the problems that an actual site may have.
 
-Some Hints to Know What Problems the Dataset Has:
+Problems the Dataset Has:
 Contains duplicates which were fixed using Python
 
 Contains missing values which were fixed using Python
