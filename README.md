@@ -1,6 +1,6 @@
 # sql-jupyter-project
- SQL Python Analytics project - E-commerce dataset 
- 
+SQL Python Analytics Project – E-commerce Dataset
+
 About Dataset
 Contains orders from an E-commerce site (UK Retailer), with various products and orders. Try starting with EDA and applying different functions to know more about the data. The dataset is tricky as it contains all the problems that an actual site may have.
 
@@ -38,8 +38,14 @@ Second highest selling product; falls under the holiday and home decor category,
 Third highest selling product; falls under the holiday and home decor category as well, ensure item is in stock during Q4 (Holiday season).
 
 Monthly Sales Trend Insights (2010–2011)
-
 Month	Total Sales ($)
+October	$973,306.38
+November	$1,126,815.07
+May	$647,011.67
+August	$615,078.09
+January	$473,731.90
+February	$435,534.07
+
 Insights:
 
 Strong Spike (October to November) (Q4) — $973,306.38 to $1,126,815.07
@@ -52,7 +58,6 @@ Low Performing Months (January and February) — $473,731.90 to $435,534.07
 Post-holiday cooldown causing decrease in sales.
 
 Insights:
-
 Marketing: Launch major promotions and campaigns before Q4 (September) to maximize profits during peak period (October–November).
 
 Promotions: Offer discounts during post-holiday season (January) to mitigate the drop in sales.
@@ -62,3 +67,5 @@ Staffing: Increase staff members during peak season.
 Repeat Products (Sold Multiple Times)
 Insights:
 Top repeat products like the WHITE HANGING HEART T-LIGHT HOLDER (2,058 sales) show strong, consistent demand. These are reliable revenue drivers—perfect for promotions, bundling, and loyalty rewards.
+
+
