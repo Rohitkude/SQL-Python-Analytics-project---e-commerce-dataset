@@ -1,10 +1,10 @@
 # sql-jupyter-project
 SQL Python Analytics Project – E-commerce Dataset
 
-About Dataset
+About Dataset: https://www.kaggle.com/datasets/atharvaarya25/e-commerce-analysis-uk
 Contains orders from an E-commerce site (UK Retailer), with various products and orders. 
 
-Problems the Dataset Has:
+Problems:
 Contains duplicates which were fixed using Python
 
 Contains missing values which were fixed using Python
