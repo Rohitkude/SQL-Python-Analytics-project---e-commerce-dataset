@@ -2,6 +2,7 @@
 SQL Python Analytics Project – E-commerce Dataset
 
 About Dataset: https://www.kaggle.com/datasets/atharvaarya25/e-commerce-analysis-uk
+
 Contains orders from an E-commerce site (UK Retailer), with various products and orders. 
 
 Problems:
